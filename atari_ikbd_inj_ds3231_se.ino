@@ -2,7 +2,7 @@
  Created with PROGRAMINO IDE for Arduino - 06.08.2018 15:23:03
  Project     : Atari ST IKBD clock injector with DS3231 RTC
  Libraries   : SoftwareSerial, Wire
- Author      : Tomasz Orczyk
+ Author      : TzOk
  Description : ARD_RX0 from KB_5, ARD_TX1 to ST_5,
                ARD_D5 from/to KB/ST_6, ARD_A3(17) to DS3231 Vcc.
 ******************************************************************/
