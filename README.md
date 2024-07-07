@@ -6,4 +6,4 @@ This module can be used to overcome the ST's IKBD real time clock/calendar limit
 
 * on STf(m) with TOS 1.00 - 1.04 it works using ST Control Panel (CONTROL.ACC), Panel is used both for synchronizing ST Clock with IKBD Clock on reboot and for manually adjusting the clock,
 * on STe with TOS 1.06/1.62 using STE_FIX.PRG and STE Control Panel (CONTROL.ACC), STE_FIX is used for synchronizing ST Clock with IKBD Clock on reboot, Panel is required only for manually adjusting the clock,
-* on STe with TOS 2.06 it works using XControl (XCONTROL.ACC), ST Clock with IKBD Clock on reboot synchronization is done by TOS itself, Panel is required only for manually adjusting the clock.
+* on STe with TOS 2.06 it works using XControl (XCONTROL.ACC), ST Clock with IKBD Clock synchronization on reboot is done by TOS itself, XControl is required only for manually adjusting the clock.
